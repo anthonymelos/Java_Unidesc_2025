@@ -11,6 +11,14 @@ public class Ex1 {
     public static void main(String[] args) {
         int a = 3;
         int b = 5;
-        int c = 0
+        int c = 0;
+
+        System.out.println(a +" e "+ b);
+
+        c = a;
+        b = c;
+        a = c;
+
+
     }
 }

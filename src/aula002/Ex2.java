@@ -13,11 +13,13 @@ public class Ex2 {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         System.out.println("Digite a altura do triangulo: ");
-        float altura = leia.nextInt();
+        float altura = leia.nextFloat();
         System.out.println("Digite a base do triangulo: ");
-        float base = leia.nextInt();
+        float base = leia.nextFloat();
 
         float area = (base * altura)/2;
-        System.out.println("A area desse triângulo é %.2f" + area);
+        System.out.println("A area desse triângulo é " + area);
+
+
     }
 }

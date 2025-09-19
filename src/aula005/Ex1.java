@@ -5,7 +5,7 @@
 //– Em seguida, troque entre si os valores de A e B;
 //– Reimprima na tela os valores de A e B.
 
-package aula002;
+package aula005;
 
 public class Ex1 {
     public static void main(String[] args) {

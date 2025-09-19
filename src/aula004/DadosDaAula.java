@@ -11,11 +11,14 @@ telefone, formação, naturalidade, nacionalidade, time do coração;
 
 package aula004;
 
-public class Aula004 {
+public class DadosDaAula {
     public static void main(String[] args) {
         System.out.println("Nome: Anthony ");
-        System.out.println("Endereço: Rua x, bairro: y");
-        System.out.println("Telefone: 61998350030");
-        System.out.println("Formação: ");
+        System.out.println("Telefone: 61998350030 ");
+        System.out.println("Formação: Bacharel em Sistemas de Informação ");
+        System.out.println("Naturalidade: Cristalina");
+        System.out.println("Nacionalidade: Brasileiro");
+        System.out.println("Time do coração: Vasco da Gama");
+        System.out.println("Endereço: Rua x, bairro: y ");
     }
 }

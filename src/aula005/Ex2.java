@@ -5,7 +5,7 @@
  * triângulo, onde:
  */
 
-package aula002;
+package aula005;
 
 import java.util.Scanner;
 

@@ -36,8 +36,8 @@ public class Ex1 {
         }
 
         System.out.println("--- Tabela ---");
-        for (int k = 1; k <= 5; k++) {
-            System.out.println("Nome: " + nomes[k] + " | Nota: " + notas[k]);
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("Nome: " + nomes[i] + " | Nota: " + notas[i]);
         }
 
         System.out.println("Alunos com nota acima da média: ");
